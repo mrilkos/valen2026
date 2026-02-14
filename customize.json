@@ -1,0 +1,51 @@
+{
+    "name": "KaKi",
+    "greetingText": "I really like your name btw!",
+    "wishText": "You make my heart skip a beat!",
+    "imagePath": "img/vector.jpg",
+
+    "countdown": {
+        "days": 372,
+        "label": "magical days"
+    },
+
+    "photoGallery": {
+        "photos": [
+            "img/vector.jpg",
+            "img/vector.jpg",
+            "img/vector.jpg"
+        ]
+    },
+
+    "loveNotes": [{
+            "title": "Remember when...",
+            "message": "We laughed until our stomachs hurt? Every moment with you is a treasure! 💕"
+        },
+        {
+            "title": "You are...",
+            "message": "The reason I smile every single day. Your presence makes everything better! ✨"
+        },
+        {
+            "title": "I love how...",
+            "message": "You make ordinary days extraordinary. You're my favorite adventure! 🌟"
+        },
+        {
+            "title": "Forever grateful...",
+            "message": "For having you in my life. You're my best friend and my love! 💗"
+        }
+    ],
+
+    "loveLetter": {
+        "greeting": "My Dearest Love,",
+        "paragraphs": [
+            "Every day with you feels like a beautiful dream I never want to wake up from. You've brought so much joy, laughter, and love into my life.",
+            "Thank you for being my partner, my best friend, and my greatest adventure. Here's to many more Valentine's Days together!",
+            "Forever yours,<br>❤️"
+        ]
+    },
+
+    "music": {
+        "title": "Our Song",
+        "audioPath": "music/song.mp3"
+    }
+}
